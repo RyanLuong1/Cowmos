@@ -38,7 +38,6 @@ A program that graphs the most common math functions.
 sudo apt-get update
 sudo apt-get install python3.6
 pip3.xx install matplotlib
-
 ```
 
 >First two steps are only required if you do not have ≥python 3.6 installed
