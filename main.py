@@ -11,7 +11,7 @@ def create_linear_function():
     #Start here to ask the user for m and b and return it as a string. If m is 5 and b is 10, then the return string is 5 * x + 10
 
 def create_exponential_function():
-    #Start here to ask the user for n and return it as a string. If n is 5, then the return string is x ^ 5
+    #Start here to ask the user for n and return it as a string. If n is 5, then the return string is x**5
     
 def create_function(val):
     #Start here to retrieve the Python version of the math function given the user input in a string
