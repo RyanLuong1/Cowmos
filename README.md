@@ -94,12 +94,13 @@ snakeCase = 0
 
 ## Contributing
 
-1. Fork the repo
-2. Clone the forked repo
-3. Add, commit and push your changes to your forked repo
-4. Make a pull request
-5. PR gets review by me
-6. PR gets approve and changes are merge to the main branch
+1. Comment which issue you want to take on
+2. Fork the repo
+3. Clone the forked repo
+4. Add, commit and push your changes to your forked repo
+5. Make a pull request
+6. PR gets review by me
+7. PR gets approve and changes are merge to the main branch
 
 ## Contact
 * Discord: ```Ryаn#6513``` 
