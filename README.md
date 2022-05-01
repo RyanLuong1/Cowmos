@@ -100,7 +100,6 @@ snakeCase = 0
 3. Add, commit and push your changes to your forked repo
 4. Make a pull request
 5. PR gets review by me
-    5i. Fix any changes if need be
 6. PR gets approve and changes are merge to the main branch
 
 ## Contact
