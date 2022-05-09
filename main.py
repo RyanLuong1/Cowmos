@@ -12,6 +12,8 @@ def create_linear_function():
 
 def create_exponential_function():
     #Start here to ask the user for n and return it as a string. If n is 5, then the return string is x**5
+    n = int(input("Enter n: "))
+    return 'n**' + str(n) + '\n'
     
 def create_function(val):
     #Start here to retrieve the Python version of the math function given the user input in a string
