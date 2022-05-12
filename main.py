@@ -8,7 +8,9 @@ def function_menu():
     print(f'1. mx + b\n2. x^n\n3. sqrt(x)\n4. |x|\n5. 1/x\n6. ln(x)\n7. e^x\n8. cos(x)\n9. sin(x)\n10. tan(x)\n11. ???')
 
 def create_linear_function():
-    #Start here to ask the user for m and b and return it as a string. If m is 5 and b is 10, then the return string is 5 * x + 10
+    m = int(input("What value would you like m to be: "))
+    b = int(input("What value would you like b to be: "))
+    return f'{m} * x + {b}'
 
 def create_exponential_function():
     #Start here to ask the user for n and return it as a string. If n is 5, then the return string is x**5
@@ -19,7 +21,7 @@ def create_function(val):
     #Start here to retrieve the Python version of the math function given the user input in a string
     #The only input you don't need to consider are 1 and 2 since those are linear and exponent function which will ask the user for additional information
     #If val is 11, then return ???
-
+    
 def math_function_name(function):
     function_names = {"x**(1/2)": "sqrt(x)", 
                       "abs(x)": "abs(x)",
